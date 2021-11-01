@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="temp">%s ℃</string>
+    <string name="temp_feels_like">%s ℃</string>
+    <string name="speed_per_second">%s м/s</string>
+    <string name="city">City</string>
+    <string name="search">search</string>
+    <string name="wind">Wind </string>
+    <string name="wind_with_symbol">%s м/s</string>
+    <string name="humidity_with_symbol">%s %%</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="visibility_with_symbol">%s km</string>
+    <string name="ten_days">Ten days</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
